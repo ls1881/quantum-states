@@ -1,2 +1,8 @@
-XwiWordList.dict
-filtered_results.txt
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Generated / local-only data
+data/XwiWordList.dict
+data/filtered_results.txt
