@@ -1,4 +1,4 @@
-# custom-theme-scripts
+# Custom-Theme-Scripts
 
 Wordlist processing and crossword clue-management scripts used to build and maintain a personal
 crossword word list, and to move clues in and out of puzzle files.
